@@ -1,4 +1,4 @@
-# bakeryProject
+# bakery
 This is an interactive online bakery project developed with Java(GUI).
 
 ![bakeryMain](https://user-images.githubusercontent.com/85033378/151654992-8ddb3ff5-0ca9-4996-8584-3ee1e142382f.png)
